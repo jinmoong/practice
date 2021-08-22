@@ -1,0 +1,17 @@
+package example;
+
+import example.practice.*;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		
+    new HelloWorld().hey();
+    
+    
+    
+    
+
+	}
+
+}
